@@ -8,7 +8,7 @@ sudo nano named.conf.local
 ```
 Ubah isinya sesuai tampilan dibawah ini
 
-![](/Foto/named.conf.local.png)
+<img src="./Foto/named.conf.local.png">
 
 Selanjutnya adalah membuka direktori /var/cache/bind menggunakan perintah
 
