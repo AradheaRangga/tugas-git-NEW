@@ -24,7 +24,7 @@ sudo nano db.kampus-10.takehome.com
 
 Kemudian ubah sesuai alamat ip client / yang menjalankan web server
 
-![](/Foto/mengubah.db.kampus.png)
+<img src="./Foto/mengubah.db.kampus.png">
 
 Menjalankan Project Laravel di client, menggunakan perintah
 ```sh
