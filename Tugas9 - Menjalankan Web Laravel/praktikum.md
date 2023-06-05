@@ -8,7 +8,7 @@ sudo nano named.conf.local
 ```
 Ubah isinya sesuai tampilan dibawah ini
 
-![](/Foto/named.conf.local.png)
+<img src="./Foto/named.conf.local.png">
 
 Selanjutnya adalah membuka direktori /var/cache/bind menggunakan perintah
 
@@ -24,11 +24,11 @@ sudo nano db.kampus-10.takehome.com
 
 Kemudian ubah sesuai alamat ip client / yang menjalankan web server
 
-![img](/Foto/mengubah.db.kampus.png)
+<img src="./Foto/mengubah.db.kampus.png">
 
 Menjalankan Project Laravel di client, menggunakan perintah
 ```sh
 php artisan serve --host= {ip address client} --port=8000
 ```
 Sehingga, web server bisa diakses oleh komputer jaringan lain menggunakan ip address client.
-![tampilan laravel]()
+<img src="./Foto/Screenshot (92).png">
